@@ -1,2 +1,1 @@
-Some Exercises!!!!!!
-pull request test
+Leet and neet code exercises
