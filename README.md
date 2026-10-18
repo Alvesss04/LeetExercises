@@ -1,8 +1,5 @@
 Leet and neet code exercises
 
-## ✍️ Authors
-- **Tomás Alves** (Student No. 77640)
-
 
 ## 📄 License
  
