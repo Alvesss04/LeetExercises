@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.stream.Stream;
 
-class Solution {
+class BalancedSegment {
 
     static int solution(Integer[] A) {
         int max = 1;
